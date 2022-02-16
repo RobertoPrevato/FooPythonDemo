@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="foodemo",
-    version="0.0.1",
+    version="0.0.2",
     description="Demo project for GitHub Actions",
     long_description=readme(),
     long_description_content_type="text/markdown",
